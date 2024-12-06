@@ -1,0 +1,387 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.parent{
+    background-image: url(./img/10th-anniversary.webp);
+    background-size: cover;
+    height: 800px;
+    width: 100%;
+    
+}
+.navbar{
+    background-color: rgba(141, 0, 0, 0.214);
+    display: flex;
+    height: 70px;
+    justify-content: space-around;
+    width: 100%;
+    align-items: center;
+}
+.navbar img{
+    margin-right: 280px;
+    height: 60px;
+}
+.link {
+    display: flex;
+    gap: 30px;
+
+}
+.link a{
+    color: white !important;
+    text-decoration: none;
+}
+.serve h2{
+    font-size: 45px;
+    font-family:"Baloo Bhai",cursive ;
+    color: #D20D20;
+    text-align:center;
+    margin-top: 100px;
+    width: 1250px;
+    margin-left: 130px;
+}
+.serve p{
+    color: #737373;
+    width: 1100px;
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 190px;
+}
+.serve iframe{
+    margin-left: 320px;
+    margin-top: 22px;
+}
+.serve button{
+    background-color: red;
+    color: white;
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 680px;
+    border: 0px;
+    height: 40px;
+    width: 120px;
+    border-radius: 18px;
+}
+.begun img{
+    height: 440px;
+    width: 100%;
+    margin-top: 100px;
+}
+.happy{
+    display:flex;
+    justify-content: center;
+    gap: 50px;
+    margin-top: 140px;
+}
+.happy img{
+    height: 550px;
+    
+}
+.happy h2{
+    margin-top: 140px;
+    font-size: 45px;
+    font-family:"Baloo Bhai",cursive ;
+    color: #D20D20;
+    width: 600px;
+    text-align: center;
+}
+.happy p{
+    margin-top: 20px;
+    color: #737373;
+    width: 600px;
+    text-align: center;
+}
+
+.apna{
+    display:flex;
+    justify-content: center;
+    gap: 50px;
+    margin-top: 140px;
+}
+.apna img{
+    height: 550px;
+    
+}
+.apna h2{
+    margin-top: 180px;
+    font-size: 45px;
+    font-family:"Baloo Bhai",cursive ;
+    color: #D20D20;
+    width: 600px;
+    text-align: center;
+}
+.apna p{
+    margin-top: 20px;
+    color: #737373;
+    width: 600px;
+    text-align: center;
+}
+.menu{
+    text-align: center;
+    font-size: 33px;
+    color: #D20D20;
+    margin-top: 80px;
+    font-family:"Baloo Bhai",cursive ;
+}
+.contenar{
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+}
+.box{
+    height: 400px;
+    width: 260px;
+    border: solid 1px rgb(255, 229, 83);
+    margin-top: 45px;
+}
+.underbox{
+    height: 220px;
+    width: 260px;
+    background-color: #D20D20;
+    border-radius: 0px 0px 50% 50%;
+}
+.underbox button{
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: 190px;
+    margin-left: 70px;
+    border: 0px;
+    height: 40px;
+    width: 120px;
+    border-radius: 18px;
+}
+.underbox img{
+    height: 150px;
+    margin-bottom: 40px;
+    margin-left: -140px;    
+}
+.box h3{
+    font-family:"Baloo Bhai",cursive ;
+    text-align: center;
+    margin-top: 20px;
+    width: 188px;
+    margin-left: 40px;
+    
+} 
+.box pre{
+    color: #D20D20;
+    text-align: center;
+    margin-top: 15px;
+    
+}
+.bt button{
+    background-color: red;
+    color: white;
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 700px;
+    border: 0px;
+    height: 40px;
+    width: 120px;
+    border-radius: 18px;
+}
+.bt p {
+    text-align: center;
+    color: #737373;
+    margin-top: 20px;
+}
+.box2-parent h1{
+    color: #507b00;
+    text-align: center;
+    margin-top: 70px;
+}
+.eco{
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+}
+.box2{
+    height: 210px;
+    width: 260px;
+    border: 0px;
+    margin-top: 50px;
+}
+.box2 h2{
+    text-align: center  ;
+    font-family:"Baloo Bhai",cursive ;
+
+}
+.box2 img{
+    height: 165px;
+    margin-left: 50px;
+}
+.biodegradable {
+    margin-top: 50px;
+    color: #737373;
+    text-align: center;
+    margin: 15px;
+}
+.biodegradable p {
+    margin-top: 20px;
+    width: 1070px;
+    margin-left: 200px;
+}
+.numbers{
+    margin-top: 80px;
+    height: 300px;
+    width: 100%;
+    background-color: #D20D20;
+    
+}
+.h2s{
+    display: flex;
+    justify-content:center;
+    gap: 135px;
+}
+.h2s h2{
+    font-family:"Baloo Bhai",cursive ;
+    color: white;
+    font-size: 50px;
+    margin-top: 90px;
+}
+.nop{
+    display: flex;
+    justify-content:center;
+    gap: 160px;
+    margin-left: -50px;
+}
+.nop p{
+    font-family:"Baloo Bhai",cursive ;
+    color: white;
+    font-size: 23px;
+    margin-top: 10px;
+}
+.pillars-parent{
+    height: 770px;
+    width: 100%;
+}
+.pillars h3{
+    font-size:25px;
+    color: #D20D20;
+    text-align: center;
+    margin-top: 20px;
+    font-family: math;
+}
+.pillars h2{
+    font-size: 50px;
+    color: #D20D20;
+    text-align: center;
+    margin-top: 0px;
+    font-family:"Baloo Bhai",cursive ;
+}
+.pillars pre{ 
+    color: #737373;
+    text-align: center;
+    margin-top: 18px;
+}
+.pp{
+    display: flex;
+    justify-content: center;
+    gap: 90px;
+}
+.pp img{
+    height: 500px;
+    margin-top: 80px;
+}
+.feed{
+    height: 500px;
+    width: 100%;
+    background-color: #D20D20;
+}
+.food h2{
+    color: white;
+    font-family:"Baloo Bhai",cursive ;
+    text-align: center;
+    font-size: 30px;
+    padding-top:20px;
+}
+.food h3{
+    color: white;
+    font-family:"Baloo Bhai",cursive ;
+    text-align: center;
+    font-size:24px ;
+    margin-top:15px ;
+}
+.food2 h4{
+    color: white;
+    font-family:"Baloo Bhai",cursive ;
+    text-align: start;
+    font-size:25px ;
+    margin-top:25px ;
+    margin-left: 45px;
+}
+.food2 pre{
+    color: white;
+    font-family:"Baloo Bhai",cursive ;
+    text-align: start;
+    margin-top:15px ;
+    font-size: 15px;
+}
+.food2 button{
+    height: 50px;
+    width: 130px;
+    color: white;
+    background-color: #ff8d00;
+    margin-left: 45%;
+    margin-top: 70px;
+    border-radius: 25px 25px 25px 25px;
+    border: 0px;
+}
+.bg{
+    background:linear-gradient(rgba(0, 0, 0, 0.229) , rgba(0, 0, 0, 0.229)), url(./img/footer.webp);
+    background-size: cover;
+    height:98vh;
+    width:100%;
+    margin-top: 100px;
+    
+}
+.ajaysfot h1{
+    color: white;
+    font-size: 37px;
+    font-family:"Baloo Bhai",cursive ; 
+    margin-top: 150px;
+}
+.ajaysfot {
+    display: flex;
+    justify-content:center;
+    gap: 550px;
+}
+.ajaysfot i{
+    font-size: 38px;
+    margin-top: 170px;
+    letter-spacing: 40px;
+
+}
+.cafe img{
+    height:140px;
+    margin-top: 90px;
+    margin-left: 530px;
+
+}
+.button a{
+    color: white;
+    text-decoration: none;
+    text-align: center;
+ 
+}
+.button{
+    display: flex;
+    justify-content: center;
+    gap: 18px;
+    margin-top: 30px;
+}
+.word p{
+    color: white;
+    text-align: center;
+    width: 900px;
+    margin-left: 300px;
+    margin-top: 30px;
+    letter-spacing: 0px;
+    font-size: 18px;
+}
+hr{
+    border: dashed #a6a6a6 ;
+    margin-top: 50px;
+    
+}
+

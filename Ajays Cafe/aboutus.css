@@ -1,0 +1,195 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.parent{
+    background:linear-gradient(rgba(0, 0, 0, 0.500) , rgba(0, 0, 0, 0.500)), url(./img/ajays-section.webp);
+    background-size: cover;
+    height:550px;
+    width: 105.2%;
+    border-radius: 5% 5% 50% 50%;
+    margin-left: -79px;  
+    
+}
+.navbar{
+    background-color: rgba(255, 23, 23, 0.545);
+    display: flex;
+    height: 70px;
+    justify-content: space-around;
+    width: 100%;
+    align-items: center;
+
+
+}
+.logo img{
+    margin-right: 280px;
+    height: 60px;
+}
+.link {
+    display: flex;
+    gap: 30px;
+
+}
+.link a{
+    color: white !important;
+    text-decoration: none;
+}
+.who{
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+    gap: 50px;
+}
+.who img{
+    margin-top: 60px;
+}
+.who h2{
+    color: #D20D20;
+    font-size: 30px;
+    font-family:"Baloo Bhai",cursive ; 
+}
+.who pre{
+    color: #737373;
+    font-size: 18px;
+    font-family:math ; 
+    margin-top: 15px;
+    word-spacing: 2px;
+    line-height: 30px;
+}
+.who h3{
+    font-size: 22px;
+    font-family:"Baloo Bhai",cursive ; 
+    margin-top: 20px;
+}
+.who h5{
+    color:#737373 ;
+    font-size: 16.5px;
+    font-family:math ; 
+    margin-top: 10px;
+}
+.mission{
+    height: 95vh;
+    background-color: #D20D20;
+    display: flex;
+    justify-content: center;
+    gap: 200px;
+    margin-top: 100px;
+}
+.mst{
+    margin-top: 200px;
+}
+.mission img{
+    height: 680px;
+    margin-top: 28px;
+}
+.mission h2{
+    color: white;
+    font-size: 35px;
+    font-family:"Baloo Bhai",cursive ; 
+    text-align: center;
+    margin-top: 50px;
+    line-height: 50px;
+} 
+.mission pre{
+    color: white;
+    font-size: 30px;
+    font-family: math;
+    text-align: center;
+    line-height: 30px;
+    
+}
+.values{
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+.values img{
+    height: 550px;
+    margin-top: 80px;
+}
+.vat{
+    margin-top: 190px;
+}
+.values h2{
+    color: #D20D20;
+    font-size: 30px;
+    font-family:"Baloo Bhai",cursive ;
+    text-align: center;
+}
+.values pre{
+    color: #737373;
+    font-size: 25px;
+    font-family: math;
+    text-align: center;
+}
+.journey{
+    margin-top: 50px;
+}
+.journey h2{
+    color: #D20D20;
+    font-size: 40px;
+    font-family:"Baloo Bhai",cursive ;
+    text-align: center;
+}
+.journey img{
+    height: 2800px;
+}
+.bg{
+    background:linear-gradient(rgba(0, 0, 0, 0.229) , rgba(0, 0, 0, 0.229)), url(./img/footer.webp);
+    background-size: cover;
+    height:98vh;
+    width:100%;
+    margin-top: 100px;
+    
+}
+.ajaysfot h1{
+    color: white;
+    font-size: 37px;
+    font-family:"Baloo Bhai",cursive ; 
+    margin-top: 150px;
+}
+.ajaysfot {
+    display: flex;
+    justify-content:center;
+    gap: 550px;
+}
+.ajaysfot i{
+    font-size: 38px;
+    margin-top: 170px;
+    letter-spacing: 40px;
+
+}
+.cafe img{
+    height:140px;
+    margin-top: 90px;
+    margin-left: 530px;
+
+}
+.button a{
+    color: white;
+    text-decoration: none;
+    text-align: center;
+ 
+}
+.button{
+    display: flex;
+    justify-content: center;
+    gap: 18px;
+    margin-top: 30px;
+}
+.word p{
+    color: white;
+    text-align: center;
+    width: 900px;
+    margin-left: 300px;
+    margin-top: 30px;
+    letter-spacing: 0px;
+    font-size: 18px;
+}
+hr{
+    border: dashed #a6a6a6 ;
+    margin-top: 50px;
+    
+}
+

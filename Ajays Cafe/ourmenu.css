@@ -1,0 +1,153 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.parent{
+    background:linear-gradient(rgba(0, 0, 0, 0.500) , rgba(0, 0, 0, 0.500)), url(./img/download.webp);
+    background-size: cover;
+    height:550px;
+    width: 105.2%;
+    border-radius: 5% 0% 50% 50%;
+    margin-left: -79px;  
+    
+}
+.navbar{
+    background-color: rgba(255, 23, 23, 0.545);
+    display: flex;
+    height: 70px;
+    justify-content: space-around;
+    width: 100%;
+    align-items: center;
+
+
+}
+.logo img{
+    margin-right: 280px;
+    margin-right: 40px;
+    height: 60px;
+}
+.link {
+    display: flex;
+    gap: 30px;
+
+}
+.link a{
+    color: white !important;
+    text-decoration: none;
+}
+.menu p{
+    color: #D20D20;
+    font-family:"Baloo Bhai",cursive ; 
+    text-align: center;
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 80px;
+}
+.menu h2{
+    color: #D20D20;
+    font-family:"Baloo Bhai",cursive ; 
+    text-align: center;
+    font-size: 40px;
+    font-weight: 600;
+    margin-top: 40px;
+}
+.contenar{
+    display: flex;
+    justify-content: center;
+    gap: 105px;
+}
+.box{
+    height: 170px;
+    width: 155px;
+    border: solid 1.5px rgb(106, 106, 106);
+    margin-top: 45px;
+}
+.box img{
+    height: 125px;
+    margin-top: 15px;
+    margin-left: 15px;
+    
+}
+.bbq{
+    height: 1500px;
+    width: 655px;
+    border: dashed 2px #a6a6a6;
+    margin-top: 75px;
+    margin-left: 450px;
+}
+
+.box1 h2{
+    font-family:"Baloo Bhai",cursive ; 
+    font-weight: 700;
+    color: black;
+    font-size: 22px;
+    margin: 5px;
+    margin-top: 20px;
+}
+.box1 pre{
+    font-family:"Baloo Bhai",cursive ; 
+    font-weight: 500;
+    color: #737373;
+    font-size: 16px;
+    margin: 10px;
+    line-height: 30px;
+    word-spacing: 3px;
+    margin-top: 15px;
+}
+.bg{
+    background:linear-gradient(rgba(0, 0, 0, 0.229) , rgba(0, 0, 0, 0.229)), url(./img/footer.webp);
+    background-size: cover;
+    height:98vh;
+    width:100%;
+    margin-top: 100px;
+    
+}
+.ajaysfot h1{
+    color: white;
+    font-size: 37px;
+    font-family:"Baloo Bhai",cursive ; 
+    margin-top: 150px;
+}
+.ajaysfot {
+    display: flex;
+    justify-content:center;
+    gap: 550px;
+}
+.ajaysfot i{
+    font-size: 38px;
+    margin-top: 170px;
+    letter-spacing: 40px;
+
+}
+.cafe img{
+    height:140px;
+    margin-top: 90px;
+    margin-left: 530px;
+
+}
+.button a{
+    color: white;
+    text-decoration: none;
+    text-align: center;
+ 
+}
+.button{
+    display: flex;
+    justify-content: center;
+    gap: 18px;
+    margin-top: 30px;
+}
+.word p{
+    color: white;
+    text-align: center;
+    width: 900px;
+    margin-left: 300px;
+    margin-top: 30px;
+    letter-spacing: 0px;
+    font-size: 18px;
+}
+hr{
+    border: dashed #a6a6a6 ;
+    margin-top: 50px;
+    
+}
